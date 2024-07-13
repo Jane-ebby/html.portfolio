@@ -1,0 +1,26 @@
+#name{
+    color: greenyellow;
+    
+}
+
+* {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#use{
+    text-align: left;
+    color: blueviolet;
+}
+
+.p{
+    text-align: left;
+}
+
+#me{
+    color: blue;
+}
+
+
+  
